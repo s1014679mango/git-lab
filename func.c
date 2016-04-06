@@ -4,5 +4,5 @@ char *getStudentID(char *id)
 {
 	/* Return your student id. */
 
-	return id;
+	return 1014679;
 }
